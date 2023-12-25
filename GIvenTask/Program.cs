@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // Task 1
             string str = "xushnudbek";
 
             Console.Write("enter optional number: ");
@@ -22,7 +23,7 @@
 
             Console.WriteLine(satr);
 
-            Console.WriteLine();
+            // Task 2
 
             int firstnumber = 7;
             int secondnumber = 7;
@@ -44,7 +45,7 @@
                 Console.WriteLine("e given numbers cannot be compared!");
             }
 
-            Console.WriteLine();
+            // Task 3
 
             Console.Write("Enter a certain weekday: ");
             string Progress = Console.ReadLine();
